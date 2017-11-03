@@ -1,0 +1,40 @@
+
+
+.Table{
+    background-color: #f9f9f9;
+    border: 5px solid #d7d7d7;
+    margin-bottom: 1px;
+    padding: 20px;
+    width:200px;
+    height: 150px;
+}
+#table{float:right;}
+
+a:hover{
+	color: blue;
+} 
+
+a:visited{
+	color:red;
+}
+
+a:link{
+	color: purple;
+}
+
+a:active{
+	color: green;
+}
+
+
+.list1{
+	float: left;
+	width:35%;
+}
+
+.list2{float: right;
+	width:35%;
+}
+p.normal{
+	font-weight: normal
+}
